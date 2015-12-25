@@ -2,6 +2,7 @@ name: TestSite_1
 favicon: null
 layout_spectrum: 0.984871941851452
 typography_spectrum: 0.5906815943308175
+title: 'Test Site #1'
 cta:
   domain: null
   bucket: null
